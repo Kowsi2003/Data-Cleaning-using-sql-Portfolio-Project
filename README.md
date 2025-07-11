@@ -2,7 +2,7 @@
 
 This project demonstrates **practical SQL data cleaning skills** using a real-world dataset of **tech layoffs (2022) from Kaggle**.
 
-**Dataset:** [Layoffs 2022 - Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+**Dataset:** [Layoffs 2022 - Kaggle](layoffs.csv)
 
 The primary goal is to clean, standardize, and prepare this dataset for further analysis using **SQL best practices**.
 
